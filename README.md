@@ -1,0 +1,1 @@
+I'll be using this project to test practice form validation and DOM manipulation in JavaScript
